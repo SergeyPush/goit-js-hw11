@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://sergeypush.github.io/goit-js-hw11/",
+  "homepage": "https://sergeypush.github.io/goit-js-hw11",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SergeyPush/goit-js-hw11.git"
@@ -18,7 +18,7 @@
   "author": "Sergey Pushkovskiy <push_s@mail.ua>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luxplanjay/js-group-11-12/issues"
+    "url": "https://github.com/SergeyPush/goit-js-hw11/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
