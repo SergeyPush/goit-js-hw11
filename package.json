@@ -9,13 +9,13 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://luxplanjay.github.io/js-group-11-12",
+  "homepage": "https://sergeypush.github.io/goit-js-hw11/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/js-group-11-12.git"
+    "url": "git+https://github.com/SergeyPush/goit-js-hw11.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Sergey Pushkovskiy <push_s@mail.ua>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luxplanjay/js-group-11-12/issues"
